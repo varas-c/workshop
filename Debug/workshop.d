@@ -1,0 +1,1 @@
+workshop.o: ../workshop.c
